@@ -1,1 +1,1 @@
-# mol_visualize
+# Conformational Analysis via Molecular Visualization
